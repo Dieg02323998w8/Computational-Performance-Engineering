@@ -39,27 +39,19 @@ Se busca explorar la relación entre software y hardware, comprender los mecanis
 
 ## 🛠️ Tecnologías y herramientas
 
-### 💻 Lenguajes de programación
+### 💻 Lenguaje de programación
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### ⚙️ Herramientas y tecnologías
+### 🔧 Herramientas de desarrollo
 
 <p>
-  <img src="https://img.shields.io/badge/GCC-222222?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenMP-3C873A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-*Las herramientas se incorporarán progresivamente según las necesidades de cada área de estudio.*
+El desarrollo se centra en C++ como lenguaje principal y GitHub como plataforma de gestión y documentación del código fuente.
 
 ## 📚 Líneas de desarrollo
 
@@ -73,37 +65,4 @@ Se busca explorar la relación entre software y hardware, comprender los mecanis
 
 ### 2. 🧮 Data Structures & Algorithms
 
-- Listas enlazadas, pilas y colas.
-- Árboles y grafos.
-- Algoritmos de ordenamiento y búsqueda.
-- Algoritmos de recorrido.
-- Análisis de complejidad computacional.
-
-### 3. 🧠 Memory & Resource Management
-
-- Gestión dinámica de memoria.
-- Punteros y referencias.
-- Administración del ciclo de vida de objetos.
-- Smart pointers.
-- Optimización del consumo de recursos.
-
-### 4. 🔄 Parallel & Concurrent Computing
-
-- Procesamiento multihilo.
-- Sincronización de procesos.
-- Distribución de tareas.
-- Paralelización de algoritmos.
-- Introducción a OpenMP y CUDA.
-
-### 5. 🖥️ Computer Systems & Architecture
-
-- Organización y arquitectura de computadores.
-- Procesadores y memoria caché.
-- Jerarquía de memoria.
-- Sistemas operativos.
-- Interacción entre software y hardware.
-
-### 6. 🔬 Numerical Computing & Simulation
-
-- Métodos numéricos.
--
+- List
